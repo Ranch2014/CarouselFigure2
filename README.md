@@ -2,7 +2,7 @@
 iOS 轮播图实现 (UIView)
 
 如图所示：
-
+![demo](https://github.com/Ranch2014/CarouselFigure2/blob/master/CarouselFigure2/demo.gif)
 
 
 该轮播图使用 UIView 实现，可以在 UITableView 的 HeaderView 中使用。
